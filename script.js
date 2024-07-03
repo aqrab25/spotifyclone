@@ -15,14 +15,14 @@ let songItems = Array.from(document.getElementsByClassName("songItem"));
 
 
 let songs = [
-    {songName: "Salam-e-Ishq", filePath:"songs/1.mp3", coverPath:"covers/1.jpg" },
-    {songName: "Cipher", filePath:"songs/2.mp3", coverPath:"covers/2.jpg" },
-    {songName: "Sweeter Vermouth", filePath:"songs/3.mp3", coverPath:"covers/3.jpg" },
-    {songName: "Dancing on Green Gras", filePath:"songs/4.mp3", coverPath:"covers/4.jpg" },
-    {songName: "Drop and Roll", filePath:"songs/5.mp3", coverPath:"covers/5.jpg" },
-    {songName: "Blue Skies", filePath:"songs/6.mp3", coverPath:"covers/6.jpg" },
-    {songName: "Life of Riley", filePath:"songs/7.mp3", coverPath:"covers/7.jpg" },
-    {songName: "Believer", filePath:"songs/8.mp3", coverPath:"covers/8.jpg" }
+    {songName: "Salam-e-Ishq", filePath:"1.mp3", coverPath:"1.jpg" },
+    {songName: "Cipher", filePath:"2.mp3", coverPath:"2.jpg" },
+    {songName: "Sweeter Vermouth", filePath:"3.mp3", coverPath:"3.jpg" },
+    {songName: "Dancing on Green Gras", filePath:"4.mp3", coverPath:"4.jpg" },
+    {songName: "Drop and Roll", filePath:"5.mp3", coverPath:"5.jpg" },
+    {songName: "Blue Skies", filePath:"6.mp3", coverPath:"6.jpg" },
+    {songName: "Life of Riley", filePath:"7.mp3", coverPath:"7.jpg" },
+    {songName: "Believer", filePath:"8.mp3", coverPath:"8.jpg" }
 
 ]
 
